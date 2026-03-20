@@ -424,3 +424,4 @@ elif st.session_state.page == "about":
 
     st.markdown("---")
     st.info("Technical Whitepaper v2.4.0-Stable | Last Updated: Feb 2026 | Secured by AES-256")
+    //ResiliNET Code
